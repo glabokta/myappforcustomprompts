@@ -9,7 +9,7 @@ const Hero = () => (
 
     <p className="lead">
       This is a sample application that demonstrates custom prompts for signup. Note that
-      you will be redirected to custom domain during login, which is a basic requirement for custom prompts.</a>
+      you will be redirected to custom domain during login, which is a basic requirement for custom prompts.
     </p>
   </div>
 );
